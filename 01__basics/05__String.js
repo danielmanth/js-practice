@@ -1,11 +1,9 @@
-// String is a text that can be assigned or stored in variable.
-// String can be written in single qoute ('), Or also can be write in double qoute ("").
-// How to find the data-type of String.
-//const x = session 1
-// String Concatination means you add two or more strings in one line 
-const x = 1
-const str = "Daniyal Mehmood"
-const str1 = " Practice session "
-console.log(str + str1);
+const str = 'programming for beginners " youtube channel" '
+// const str1 = " youtube channel"
+console.log(str);
+// Here we see about the Quotes inside a Quote in string.
 
-// Here we see about the Template Strings with backticks-``
+
+//Also remember we cannot provide double quotes in double quotes & not single quotes in single quotes.
+
+// If you want double and single quotes in the same code of line use template strings with backticks.
