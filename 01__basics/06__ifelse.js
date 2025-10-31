@@ -6,8 +6,6 @@
 // these are some of them and here we explain about them all.
 // use if statment to execute a block of code if the condition is true.
 // use else statment to execute a block of code if the same condition is false.
-// use else-if statment to execute a block of code if the 
+// use else-if statment to specify the new condition to test , if the first condition is false.
 
-for (let step = 0; step < 5; step++) {
-  console.log("Walking east one step");
-}
+
